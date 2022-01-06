@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-web-app/static/css/main.7337d164.css",
+    "main.js": "/React-web-app/static/js/main.9b2ffa1c.js",
+    "static/media/background.jpg": "/React-web-app/static/media/background.e3011a5fab04eaa53dd5.jpg",
+    "static/media/Pixel-LCD-7.woff": "/React-web-app/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
+    "index.html": "/React-web-app/index.html",
+    "main.7337d164.css.map": "/React-web-app/static/css/main.7337d164.css.map",
+    "main.9b2ffa1c.js.map": "/React-web-app/static/js/main.9b2ffa1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7337d164.css",
+    "static/js/main.9b2ffa1c.js"
+  ]
+}
